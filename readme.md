@@ -1,7 +1,9 @@
-To run: 
-```node
-npm run watch
-```
-and then open with [live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+To run:
 
-Documentation: [https://tailwindcss.com/docs/installation](https://tailwindcss.com/docs/installation)
+```node
+npm run start
+```
+
+and then goto [http://localhost:5173](http://localhost:5173)
+
+[Documentation](https://tailwindcss.com/docs/installation/using-postcss)
